@@ -1,5 +1,7 @@
 # Greenhouse monitoring
 
+#### Device: ESP-32-S3 microsensor
+
 With a surplus of cheap, green energy, it’s becoming more and more feasible to grow food locally in Norway. 
 A local investor is setting up a small indoor banana & pineapple farm to produce fresh fruit all year and he needs a monitoring solution. 
 
@@ -10,3 +12,4 @@ A local investor is setting up a small indoor banana & pineapple farm to produce
 ## Deliverables:
 
 #### -All source code required to run the project
+
