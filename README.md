@@ -15,3 +15,7 @@
 
 #### -All source code required to run the project
 
+## Sensor readings:
+##### -Light
+##### -Temperature
+##### -Humidity
